@@ -1,0 +1,66 @@
+body{
+    background-color: #59C3C3;
+    color: #EBEBEB
+}
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-family: monospace;
+}
+em{
+    text-decoration: underline;
+}
+strong{
+    font-style: italic;
+}
+img{
+    padding: 10px;
+    background-color: black;
+}
+.nome{
+    font-size: 18px;
+}
+.foto{
+    font-size: 20px;
+}
+.disc{
+    font-size: 26px;
+}
+.Hab{
+    font-size: 22px;
+}
+.blogfav{
+    font-size: 16px;
+}
+.Name{
+    width: 50%;
+    margin: auto;
+}
+.fotoPerfil{
+    width: 30%;
+    display: inline-block;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.discri{
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.apresentacao{
+    width: 750px;
+    margin-top: auto;
+}
+li {
+    list-style-type: none;
+    
+}
+#InfHabilidades li:nth-of-type(odd){
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
